@@ -19,33 +19,8 @@
 
 getgenv().settings = {
     {
-        item = "Mini Chest",
-        maxPrice = 30000,
-        class = "Misc",
-    },
-    {
-        item = "Crystal Key",
-        maxPrice = 24000,
-        class = "Misc", 
-    },
-    {
-        item = "Tech Key",
-        maxPrice = 53000,
-        class = "Misc"
-    },
-    {
-        item = "Charm Stone",
-        maxPrice = 20000,
-        class = "Misc"
-    },
-    {
-        item = "Large Gift Bag",
-        maxPrice = 9000,
-        class = "Misc"
-    },
-    {
         item = "Secret Key",
-        maxPrice = 56000,
+        maxPrice = 75000,
         class = "Misc"
     }
 }
