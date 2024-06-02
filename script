@@ -1,26 +1,7 @@
---[[
-    EXAMPLES
-    {
-        item = "Secret Key",
-        maxPrice = 56000,
-        class = "Misc",
-    }
-    {
-        item = "Crystal Key",
-        maxPrice = 20000,
-        class = "Misc",  
-    }
-    {
-        item = "Tech Key",
-        maxPrice = 52000,
-        class = "Misc"
-    }
-]]
-
 getgenv().settings = {
     {
         item = "Secret Key",
-        maxPrice = 75000,
+        maxPrice = 70000,
         class = "Misc"
     }
 }
